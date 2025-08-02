@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1>
-- 👨‍💻 All of my projects are available at [.](.)
-
 - 📫 How to reach me **sabbirlm10niyaz@gmail.com**
-
-- 📄 Know about my experiences [.](.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
