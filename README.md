@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1>
+- 👨‍💻 All of my projects are available at [.](.)
+
+- 📫 How to reach me **sabbirlm10niyaz@gmail.com**
+
+- 📄 Know about my experiences [.](.)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabbir-niyaz-ssaabbiirrhhossaaiinn/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabbir-niyaz-ssaabbiirrhhossaaiinn/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sabbir hossain niyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir hossain niyaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
