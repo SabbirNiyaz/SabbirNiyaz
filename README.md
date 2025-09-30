@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1>
+<h3>Computer Science student | Beginner Web Developer | Exploring full-stack with JavaScript | Open to learning</h3>
 📫 sabbirlm10niyaz@gmail.com
 
 <!--
