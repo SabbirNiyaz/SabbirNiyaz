@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="50%" height="20%" alt="Hello, I'm Sabbir I do open source!" src="assets/name-img.png" /></a></p>
+<p align="center"><a href=""><img width="70%" alt="Hello, I'm Sabbir I do open source!" src="assets/name-image.png" /></a></p>
 
 <!-- <h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1> -->
 
