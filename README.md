@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1>
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Sabbir I do open source!" src="./assets/header.png" /></a></p>
 
+<h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1>
 
 <h3>Computer Science student | Beginner Web Dev | Exploring full-stack with JavaScript | Open to learning
 </h3>
