@@ -10,16 +10,15 @@
 <!-- <li>:briefcase: &nbsp;I'm currently working at Fiskil.</li> -->
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
 <!-- <li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, TypeScript, React, Next.js & Node</strong>.</li> -->
-<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:sabbirlm10niyaz@gmail.com">sabbirlm10niyaz@gmail.com</a></strong>.</li>
-<li>:iphone: &nbsp;You can find me on linkedln at <strong><a href="https://www.linkedin.com/in/sabbir-niyaz-ssaabbiirrhhossaaiinn/">https://www.linkedin.com/in/sabbir-niyaz</strong>.</li>
+<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:sabbirlm10niyaz@gmail.com" target="_blank">sabbirlm10niyaz@gmail.com</a></strong>.</li>
+<li>:iphone: &nbsp;You can find me on linkedln at <strong><a href="https://www.linkedin.com/in/sabbir-niyaz-ssaabbiirrhhossaaiinn/" target="_blank">https://www.linkedin.com/in/sabbir-niyaz</strong>.</li>
 <!-- <li>:snowman_with_snow: &nbsp;Funny thing about me is I sleep on the next minute I loose my mind.</li> -->
 </ul>
 
-<h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1> 
+<!-- <h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1> 
 
-<h3>Computer Science student | Beginner Web Dev | Exploring full-stack with JavaScript | Open to learning
-</h3>
-📫 sabbirlm10niyaz@gmail.com
+<h3>Computer Science student | Beginner Web Dev | Exploring full-stack with JavaScript | Open to learning </h3>
+<p>📫 sabbirlm10niyaz@gmail.com</p> -->
 
 <!--
 <h3 align="left">Connect with me:</h3>
