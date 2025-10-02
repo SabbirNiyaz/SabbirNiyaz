@@ -9,7 +9,8 @@
 </br>
 
 <ul>
-<li>:briefcase: &nbsp;I'm currently studying at AIUB</li>
+<!-- <li>:briefcase: &nbsp;I'm currently studying at AIUB</li> -->
+<li>:🏛️: &nbsp;I'm currently studying at AIUB</li>
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
 <!-- <li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, TypeScript, React, Next.js & Node</strong>.</li> -->
 <li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:sabbirlm10niyaz@gmail.com" target="_blank">sabbirlm10niyaz@gmail.com</a></strong>.</li>
