@@ -1,10 +1,10 @@
 <h1 align="center">Hi there :wave:, I'm Sabbir </h1>
 
 <h3 align="center">A Passionate Web Developer From Dhaka, Bangladesh 👨‍💻</h3>
-<br/>
+<!-- <br/> -->
 <!-- <p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, football crazy by hobby ⚽, A calm personality.</strong></p>
 </br> -->
-<p align="center"><strong>Computer Science student | Beginner Web Dev | Exploring full-stack Web Dev | Open to learning </strong></p>
+<p align="center"><strong>Computer Science student | Beginner Web Dev | Exploring Full-stack Web Dev | Open to learning </strong></p>
 </br>
 
 <ul>
