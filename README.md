@@ -3,8 +3,8 @@
 <h3 align="center">A Passionate Web Developer From Dhaka, Bangladesh 👨‍💻</h3>
 
 <br/>
-<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, football crazy by hobby ⚽, A calm personality.</strong></p>
-</br>
+<!-- <p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, football crazy by hobby ⚽, A calm personality.</strong></p>
+</br> -->
 <h5>Computer Science student | Beginner Web Dev | Exploring full-stack with JavaScript | Open to learning </h5>
 </br>
 
