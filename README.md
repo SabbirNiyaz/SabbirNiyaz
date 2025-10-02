@@ -5,7 +5,7 @@
 <br/>
 <!-- <p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, football crazy by hobby ⚽, A calm personality.</strong></p>
 </br> -->
-<h5>Computer Science student | Beginner Web Dev | Exploring full-stack with JavaScript | Open to learning </h5>
+<p><strong>Computer Science student | Beginner Web Dev | Exploring full-stack Web Dev | Open to learning </strong></p>
 </br>
 
 <ul>
