@@ -15,10 +15,10 @@
 <!-- <li>:snowman_with_snow: &nbsp;Funny thing about me is I sleep on the next minute I loose my mind.</li> -->
 </ul>
 
-<!-- <h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1> 
+<h1 align="center">Hi 👋, I'm Sabbir Hossain Niyaz</h1> 
 
 <h3>Computer Science student | Beginner Web Dev | Exploring full-stack with JavaScript | Open to learning </h3>
-<p>📫 sabbirlm10niyaz@gmail.com</p> -->
+<p>📫 sabbirlm10niyaz@gmail.com</p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
