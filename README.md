@@ -4,7 +4,7 @@
 <!-- <br/> -->
 <!-- <p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, football crazy by hobby ⚽, A calm personality.</strong></p>
 </br> -->
-<p align="center"><strong>CS Undergraduate | Beginner Web Dev | Exploring Full-stack Web Dev | Open to learning </strong></p>
+<p align="center"><strong>CS Undergraduate | Beginner Web Developer | Exploring Full-stack | Open to Learning </strong></p>
 </br>
 
 <ul>
