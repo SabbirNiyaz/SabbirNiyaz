@@ -12,7 +12,7 @@
 <li>🏛️ &nbsp;I'm currently studying BSc in Computer Science and Engineering (CSE) at American International University-Bangladesh (AIUB).</li>
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
 <!-- <li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, TypeScript, React, Next.js & Node</strong>.</li> -->
-<li>:iphone: &nbsp;You can find me on linkedln at <strong><a href="https://www.linkedin.com/in/sabbir-niyaz-ssaabbiirrhhossaaiinn/" target="_blank"> https://www.linkedin.com/in/sabbir-niyaz</strong>.</li>
+<li>:iphone: &nbsp;You can find me on linkedln at <strong><a href="https://www.linkedin.com/in/sabbirniyaz/" target="_blank"> https://www.linkedin.com/in/sabbirniyaz</strong>.</li>
 <li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:sabbir.hossain.niyaz@gmail.com" target="_blank"> sabbir.hossain.niyaz@gmail.com </a></strong>.</li>
 <!-- <li></li> -->
 </ul>
