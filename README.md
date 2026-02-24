@@ -52,7 +52,7 @@
 <strong>Languages :</strong> C# | JavaScript | TypeScript <br/>
 <strong>Frontend  :</strong> React.js | Next.js | Tailwind CSS <br/>
 <strong>Backend   :</strong> Node.js | Express.js | NestJS | .NET <br/>
-<strong>Database  :</strong> MongoDB | MySQL | MSSQL | PostgreSQL <br/>
+<strong>Database  :</strong> PostgreSQL | MSSQL | MySQL | MongoDB <br/>
 <strong>ORM       :</strong> Prisma | TypeORM | Entity Framework (EF) <br/>
 <strong>Tools     :</strong> Git | GitHub | Postman | VS Code  
 
