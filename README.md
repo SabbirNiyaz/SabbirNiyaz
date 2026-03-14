@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:Segoe UI; font-weight:700;">
-  Hi 👋, I'm Niyaz!
+  Hi 👋, I'm Niyaz
 </h1>
 
 <h3 align="center" style="color:#0A66C2; font-weight:500;">
