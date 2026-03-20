@@ -45,6 +45,26 @@
 
 <hr/>
 
+<h2 style="border-left:4px solid #0A66C2; padding-left:10px;">📄 Resume</h2>
+
+<p align="center" style="margin-top:10px;">
+  <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs/edit" 
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:12px 24px;
+       background:#0A66C2;
+       color:#ffffff;
+       border-radius:6px;
+       text-decoration:none;
+       font-weight:600;
+     ">
+     🚀 View My Resume
+  </a>
+</p>
+
+<hr/>
+
 <h2 style="border-left:4px solid #0A66C2; padding-left:10px;">⚡ Tech Stack</h2>
 
 <div style="background-color:#f6f8fa; padding:15px; border-radius:8px; font-family:Consolas; font-size:14px; line-height:1.8;">
