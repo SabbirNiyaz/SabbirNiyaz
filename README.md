@@ -25,6 +25,17 @@
   <li>🤝 Open to collaboration on interesting and impactful projects</li>
 
   <li>📚 Currently exploring advanced backend architecture, database design & system scalability</li>
+
+    <!-- Resume -->
+  <li>📄 <strong>Resume:</strong> 
+    <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs/edit" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       style="color:#0A66C2; text-decoration:none;">
+      View My Resume
+    </a>
+  </li>
+  
 </ul>
 
 <hr/>
@@ -40,16 +51,6 @@
   📧 <strong>Email:</strong> 
   <a href="mailto:sabbir.hossain.niyaz@gmail.com" style="color:#0A66C2; text-decoration:none;">
     sabbir.hossain.niyaz@gmail.com
-  </a>
-</p>
-
-<hr/>
-
-  📄 <strong>Resume:</strong> 
-  <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs/edit" 
-     target="_blank" 
-     style="color:#0A66C2; text-decoration:none;">
-    View My Resume
   </a>
 </p>
 
