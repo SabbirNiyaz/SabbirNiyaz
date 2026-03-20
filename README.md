@@ -45,8 +45,6 @@
 
 <hr/>
 
-<h2 style="border-left:4px solid #0A66C2; padding-left:10px;">📄 Resume</h2>
-
 <p style="line-height:1.8;">
   📄 <strong>Resume:</strong> 
   <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs/edit" 
@@ -55,8 +53,6 @@
     View My Resume
   </a>
 </p>
-
-<hr/>
 
 <hr/>
 
