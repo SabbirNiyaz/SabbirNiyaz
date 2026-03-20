@@ -25,8 +25,7 @@
   <li>🤝 Open to collaboration on interesting and impactful projects</li>
 
   <li>📚 Currently exploring advanced backend architecture, database design & system scalability</li>
-
-    <!-- Resume -->
+  
   <li>📄 <strong>Resume:</strong> 
     <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs/edit" 
        target="_blank" 
