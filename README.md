@@ -12,6 +12,22 @@
   </strong>
 </p>
 
+<hr/>
+
+<h2 style="border-left:4px solid #0A66C2; padding-left:10px;">🧑‍💻 About Me</h2>
+
+<ul style="line-height:1.8;">
+  <li>🎓 <strong>BSc in Computer Science & Engineering (CSE)</strong><br/>
+      American International University-Bangladesh (AIUB)</li>
+
+  <li>💡 Passionate about <strong>Full-Stack Development, Clean Architecture & Backend Systems</strong></li>
+
+  <li>🤝 Open to collaboration on interesting and impactful projects</li>
+
+  <li>📚 Currently exploring advanced backend architecture, database design & system scalability</li>
+</ul>
+
+
 <p align="center" style="margin-top:10px;">
   📄 <strong>Resume:</strong><br/>
 
@@ -30,21 +46,6 @@
      🚀 View My Resume
   </a>
 </p>
-
-<hr/>
-
-<h2 style="border-left:4px solid #0A66C2; padding-left:10px;">🧑‍💻 About Me</h2>
-
-<ul style="line-height:1.8;">
-  <li>🎓 <strong>BSc in Computer Science & Engineering (CSE)</strong><br/>
-      American International University-Bangladesh (AIUB)</li>
-
-  <li>💡 Passionate about <strong>Full-Stack Development, Clean Architecture & Backend Systems</strong></li>
-
-  <li>🤝 Open to collaboration on interesting and impactful projects</li>
-
-  <li>📚 Currently exploring advanced backend architecture, database design & system scalability</li>
-</ul>
 
 <hr/>
 
