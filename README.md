@@ -27,7 +27,7 @@
   <li>📚 Currently exploring advanced backend architecture, database design & system scalability</li>
   
   <li>📄 <strong>Resume:</strong> 
-    <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs/edit" 
+    <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs" 
        target="_blank" 
        rel="noopener noreferrer"
        style="color:#0A66C2; text-decoration:none;">
