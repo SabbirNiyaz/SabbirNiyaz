@@ -31,28 +31,9 @@
        target="_blank" 
        rel="noopener noreferrer"
        style="color:#0A66C2; text-decoration:none;">
-      Click Here
+      View Resume
     </a>
   </li>
-
-  <li>📄 <strong>Resume:</strong> 
-  <a href="https://docs.google.com/document/d/1Qb6a3E3s4vQGVbDtdSWkCzcspkcdxWwrWSkjDVU-kIs/edit" 
-     target="_blank" 
-     rel="noopener noreferrer"
-     style="
-        display:inline-block;
-        padding:8px 16px;
-        background-color:#0A66C2;
-        color:#ffffff;
-        text-decoration:none;
-        border-radius:6px;
-        font-weight:600;
-        font-size:14px;
-     ">
-    View Resume
-  </a>
-</li>
-  
 </ul>
 
 <hr/>
