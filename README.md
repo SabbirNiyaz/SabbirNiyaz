@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#0A66C2; font-weight:500;">
-  🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
+  🚀 Junior Full-Stack Developer | Aspiring Software Engineer | Tech Enthusiast
 </h3>
 
 <p align="center" style="font-size:16px;">
