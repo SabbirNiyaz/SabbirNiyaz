@@ -34,6 +34,15 @@
       View Resume
     </a>
   </li>
+  <li>📄 <strong>Portfolio:</strong> 
+    <a href="https://sabbirniyaz.vercel.app/" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       style="color:#0A66C2; text-decoration:none;">
+      View Portfolio Website
+    </a>
+  </li>
+  
 </ul>
 
 <hr/>
