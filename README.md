@@ -26,20 +26,21 @@
 
   <li>📚 Currently exploring advanced backend architecture, database design & system scalability</li>
   
+  <li>🌐 <strong>Portfolio:</strong> 
+    <a href="https://sabbirniyaz.vercel.app/" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       style="color:#0A66C2; text-decoration:none;">
+      View Website
+    </a>
+  </li>
+  
   <li>📄 <strong>Resume:</strong> 
     <a href="https://drive.google.com/file/d/1VOX3b4HwZ11qUVaOAtCdVLK_OJ_xa8kL/view" 
        target="_blank" 
        rel="noopener noreferrer"
        style="color:#0A66C2; text-decoration:none;">
       View Resume
-    </a>
-  </li>
-  <li>📄 <strong>Portfolio:</strong> 
-    <a href="https://sabbirniyaz.vercel.app/" 
-       target="_blank" 
-       rel="noopener noreferrer"
-       style="color:#0A66C2; text-decoration:none;">
-      View Portfolio Website
     </a>
   </li>
   
