@@ -17,18 +17,18 @@
 <h2 style="border-left:4px solid #0A66C2; padding-left:10px;">🧑‍💻 About Me</h2>
 
 <ul style="line-height:1.8;">
-  <li>🎓 <strong>Software Engineer Intern </strong> at BRACNet Limited </li>
+  <li>👨‍💻 <strong>Software Engineer Intern </strong> at BRACNet Limited </li>
   
   <li>🎓 <strong>BSc in Computer Science & Engineering (CSE)</strong><br/>
       Completed at American International University-Bangladesh (AIUB)</li>
 
-  <li>💡 Passionate about <strong>Full-Stack Development, Clean Architecture & Backend Systems</strong></li>
+  <li>💻 Passionate about <strong>Full-Stack Development, Clean Architecture & Backend Systems</strong></li>
 
   <li>🤝 Open to collaboration on interesting and impactful projects</li>
 
-  <li>📚 Currently exploring advanced backend architecture, database design & system scalability</li>
+  <li>🚀 Currently exploring advanced backend architecture, database design & system scalability</li>
   
-  <li>🌐 <strong>Portfolio:</strong> 
+  <li>🔗 <strong>Portfolio:</strong> 
     <a href="https://sabbirniyaz.vercel.app/" 
        target="_blank" 
        rel="noopener noreferrer"
@@ -37,7 +37,7 @@
     </a>
   </li>
   
-  <li>📄 <strong>Resume:</strong> 
+  <li>📝 <strong>Resume:</strong> 
     <a href="https://drive.google.com/file/d/1VOX3b4HwZ11qUVaOAtCdVLK_OJ_xa8kL/view" 
        target="_blank" 
        rel="noopener noreferrer"
