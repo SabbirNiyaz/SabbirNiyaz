@@ -17,7 +17,7 @@
 <h2 style="border-left:4px solid #0A66C2; padding-left:10px;">🧑‍💻 About Me</h2>
 
 <ul style="line-height:1.8;">
-  <li>👨‍💻 <strong>Software Engineer Intern </strong> at BRACNet Limited </li>
+  <li>💼 <strong>Software Engineer Intern </strong> at BRACNet Limited </li>
   
   <li>🎓 <strong>BSc in Computer Science & Engineering (CSE)</strong><br/>
       Completed at American International University-Bangladesh (AIUB)</li>
