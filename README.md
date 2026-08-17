@@ -70,8 +70,8 @@
 
 <div style="background-color:#f6f8fa; padding:15px; border-radius:8px; font-family:Consolas; font-size:14px; line-height:1.8;">
 
-<strong>Languages :</strong> C# | PHP | JavaScript | TypeScript <br/>
-<strong>Frontend  :</strong> React.js | Next.js | Tailwind CSS <br/>
+<strong>Languages :</strong> JavaScript | TypeScript | C# | PHP <br/>
+<strong>Frontend  :</strong> React.js | Next.js | Tailwind CSS | HTML <br/>
 <strong>Backend   :</strong> Node.js | Express.js | NestJS | .NET | Laravel <br/>
 <strong>Database  :</strong> PostgreSQL | MySQL | MSSQL <br/>
 <strong>ORM       :</strong> Prisma | TypeORM | Entity Framework | Eloquent ORM <br/>
