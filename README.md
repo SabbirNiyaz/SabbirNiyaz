@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:Segoe UI; font-weight:700;">
-  Hi 👋, I'm Niyaz
+  Hi 👋, I'm Sabbir
 </h1>
 
 <h3 align="center" style="color:#0A66C2; font-weight:500;">
@@ -70,11 +70,11 @@
 
 <div style="background-color:#f6f8fa; padding:15px; border-radius:8px; font-family:Consolas; font-size:14px; line-height:1.8;">
 
-<strong>Languages :</strong> C# | JavaScript | TypeScript <br/>
+<strong>Languages :</strong> C# | PHP | JavaScript | TypeScript <br/>
 <strong>Frontend  :</strong> React.js | Next.js | Tailwind CSS <br/>
-<strong>Backend   :</strong> Node.js | Express.js | NestJS | .NET <br/>
-<strong>Database  :</strong> PostgreSQL | MSSQL | MySQL | MongoDB <br/>
-<strong>ORM       :</strong> Prisma | TypeORM | Entity Framework (EF) <br/>
+<strong>Backend   :</strong> Node.js | Express.js | NestJS | .NET | Laravel <br/>
+<strong>Database  :</strong> PostgreSQL | MySQL | MSSQL <br/>
+<strong>ORM       :</strong> Prisma | TypeORM | Entity Framework | Eloquent ORM <br/>
 <strong>Tools     :</strong> Git | GitHub | Postman | VS Code  
 
 </div>
